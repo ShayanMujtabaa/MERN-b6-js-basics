@@ -1,1 +1,5 @@
 GIT add commit push everytime
+
+git add .
+git commit -m "added a paragraph"
+git push
